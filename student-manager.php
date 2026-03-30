@@ -1,11 +1,4 @@
 <?php
-/**
- * Plugin Name: Student Manager
- * Description: Quản lý thông tin sinh viên với CPT và Shortcode.
- * Version: 1.0
- * Author: [Tên của bạn]
- */
-
 // Ngăn chặn truy cập trực tiếp vào file
 if (!defined('ABSPATH')) exit;
 

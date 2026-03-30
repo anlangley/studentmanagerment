@@ -1,4 +1,10 @@
 <?php
+/*
+Plugin Name: Student Manager
+Description: Quản lý sinh viên
+Version: 1.0
+Author: Phạm Bảo An
+*/
 // Ngăn chặn truy cập trực tiếp vào file
 if (!defined('ABSPATH')) exit;
 
